@@ -1,0 +1,46 @@
+.pine{
+    width: 900px;
+    height: 620px;
+    background-color: aquamarine;
+    margin: auto;
+    margin-top: auto;
+    display: flex;
+}
+.maroon{
+    width: 100px;
+    height: 100px;
+    background-color: bisque;
+    margin: auto;
+    margin-top: auto;
+}
+.sun{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-top: auto;
+    margin: auto;
+}
+.train{
+    width: 100px;
+    height: 100px;
+    background-color: chartreuse;
+    margin-top: auto;
+    margin: auto;
+}
+.aligncenter{
+    width: 400px;
+    margin: auto;
+    background-color: aquamarine;
+}
+.mygroups{
+    width: 100%;
+    overflow: auto;
+}
+.mygroups2{
+    width: 55%;
+    float: left;
+}
+.flexbox{
+    display: flex;
+}
+
