@@ -1,0 +1,23 @@
+.groups{
+    background-color: lightgreen;
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
+  .computer{
+    background-color: goldenrod;
+    color: black;
+    padding: 10px;
+  }
+  .henry{
+    background-color: blue;
+    color: black;
+    padding: 10px;
+
+  }
+  .david{
+    background-color: coral;
+    color: black;
+    padding: 10px;
+  }
