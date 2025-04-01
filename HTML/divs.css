@@ -1,0 +1,40 @@
+.Roman {
+    background-color: bisque;
+    width: 70%;
+    height: 600px;
+    margin: auto;
+
+}
+body {
+    background-color: lightcyan;
+}
+.Nile {
+    background-color: aqua;
+    width: 100%;
+    height: 100px;
+    margin: auto;
+    text-align: center;
+}
+.Blue {
+    background-color: darkseagreen;
+    width: 100%;
+    height: 300px;
+    margin: auto;
+    display: flex;
+
+}
+.Nairobi {
+    background-color: chartreuse;
+    width: 30%;
+    height: 100% ;
+}
+.Kampala {
+    background-color: cornflowerblue;
+    width: 70%;
+    height: 100%;
+}
+.Congo {
+    background-color: dimgrey;
+    width: 100%;
+    height: fit-content;
+}
