@@ -1,6 +1,6 @@
 .Roman {
     background-color: bisque;
-    width: 70%;
+    width: 1000px;
     height: 600px;
     margin: auto;
 
@@ -11,15 +11,13 @@ body {
 .Nile {
     background-color: aqua;
     width: 100%;
-    height: 100px;
-    margin: auto;
+    height: 20%;
     text-align: center;
 }
 .Blue {
     background-color: darkseagreen;
     width: 100%;
-    height: 300px;
-    margin: auto;
+    height: 60%;
     display: flex;
 
 }
@@ -36,5 +34,18 @@ body {
 .Congo {
     background-color: dimgrey;
     width: 100%;
-    height: fit-content;
+    height: 20%;
+}
+.green {
+    text-align: center;
+    color: red;
+    padding-top: 50px;
+}
+.sony {
+    padding-left: 20px;
+}
+.daniel {
+    text-align: center;
+    color: white;
+    
 }
