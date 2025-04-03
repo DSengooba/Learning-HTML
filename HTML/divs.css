@@ -25,16 +25,18 @@ body {
     background-color: chartreuse;
     width: 30%;
     height: 100% ;
+    padding-top: 18px;
 }
 .Kampala {
     background-color: cornflowerblue;
     width: 70%;
     height: 100%;
+    padding-top: 18px;
 }
 .Congo {
     background-color: dimgrey;
     width: 100%;
-    height: 20%;
+    height: 18%;
 }
 .green {
     text-align: center;
@@ -46,6 +48,6 @@ body {
 }
 .daniel {
     text-align: center;
-    color: white;
-    
+    color: yellow;
+    padding-top: 50px;
 }
